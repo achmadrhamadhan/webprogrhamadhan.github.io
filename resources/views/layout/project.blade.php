@@ -173,17 +173,12 @@
                     <p>Trainee akan didaftarkan ujian mengemudi untuk mendapatkan lisensi mengemudi</p>
                   </div>
                 </div>
-
               </div>
             </div>
-
           </div>
-
-        </div><!-- End Feature Icons -->
-
+        </div>
       </div>
-
-    </section><!-- End Features Section -->
+    </section><!-- End Schedule Section -->
 
     <!-- ======= Package Section ======= -->
     <section id="pricing" class="pricing">
